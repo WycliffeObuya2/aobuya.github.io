@@ -1,11 +1,11 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
+    "title": "Abbas Websitr",
+    "name": "About CV",
     "version": "5.1.2",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "description": "A brief description about me.",
     "keywords": [
         "css",
         "sass",
